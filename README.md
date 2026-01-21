@@ -1,7 +1,7 @@
 # 👋 Ciao! This is Guameezia 
 
 Please visit my website.
-https://github.com/Guameezia/Guameezia
+https://guameezia.github.io/
 
 <!-- You can find me with this name on almost all social media. To be honest, it is unique, but also difficult to pronounce.
 
