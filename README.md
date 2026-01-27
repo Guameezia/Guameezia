@@ -3,6 +3,7 @@
 Please visit my website.
 https://guameezia.github.io/
 
+**BSc Information and Computing Science** in **XJTLU**  2024-2028
 <!-- You can find me with this name on almost all social media. To be honest, it is unique, but also difficult to pronounce.
 
 **Haohan Lin** This is my legal name on my passport.
