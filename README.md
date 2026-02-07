@@ -16,8 +16,10 @@
 
 > *You can find me with this name on almost all social media. To be honest, it is unique, but also difficult to pronounce.*
 
--  **Legal Name:** Haohan Lin (passport name)
--  **Also known as:** Julian (my old-fashioned English name from childhood)
+🎾 Amateur tennis player | 🗺️ Cartographer | ✍️ Calligraphy fanatic | 💬 Rantmonger
+
+-  **Legal Name:** Haohan Lin (CN passport name) 
+-  **Also known as:** Julian (my old-fashioned English name from childhood), Lìng Hō̤-hâng (Bàng-uā-cê)
 -  **Currently studying:** BSc Information and Computing Science @ **XJTLU** (2024-2028)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
