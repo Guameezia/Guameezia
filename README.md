@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Ciao! This is Guameezia
 
@@ -8,17 +8,17 @@
 [![WeChat](https://img.shields.io/badge/WeChat-Guameezia-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://weixin.qq.com)
 [![Email](https://img.shields.io/badge/Email-guameezia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guameezia@gmail.com)
 
-</div>
+</div> 
 
----
+--- -->
+
+# 👋 Ciao! This is Guameezia
 
 > *You can find me with this name on almost all social media. To be honest, it is unique, but also difficult to pronounce.*
 
 -  **Legal Name:** Haohan Lin (passport name)
 -  **Also known as:** Julian (my old-fashioned English name from childhood)
 -  **Currently studying:** BSc Information and Computing Science @ **XJTLU** (2024-2028)
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
@@ -42,12 +42,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
-
 **Thanks for visiting!** 
-
-</div>
