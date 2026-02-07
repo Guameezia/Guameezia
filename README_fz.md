@@ -1,10 +1,11 @@
 # 👋 Nṳ̄ hō̤! Nguāi sê Guameezia
+
 > *Nṳ̄ â̤-sāi lā̤ social media iōng chiā miàng chō̤h-tiê nguāi. Lò̤-sĭk gōng, chiā miâng iā ték-piàk, dān-sī buō-sāi dók.*
 
-🎾 Ngiĕk-ù tennis suáng-chiū | 🗺️ Ài map gì nè̤ng | ✍️ Ài siá-cê gì nè̤ng | 💬 Ái huák lô̤-sô̤ gì nè̤ng
+🎾 Ngiĕk-ù tennis suáng-chiū | 🗺️ Ài map gì nè̤ng | ✍️ Ài siá-cê gì nè̤ng | 💬 Ài huák lô̤-sô̤ gì nè̤ng
 
 - **Huák-dêng siáng-miàng:** Haohan Lin (CN hō̤-ziō̤ siáng-miàng)
-- **Biék-miàng:** Julian (nguāi siáe-giāng sìng-hâu gì Lāu-sĭk Ĭng-ùng-miàng), Lìng Hō̤-hâng (Bàng-uā-cê)
+- **Biék-miàng:** Julian (nguāi siáe-giāng sìng-hâu gì lāu-sĭk Ĭng-ùng-miàng), Lìng Hō̤-hâng (Bàng-uā-cê)
 - **Gĭng-dáng dṳ̀-cṳ̀:** Info gĭk Comp-Science Lī-hŏk nè̤ng @ **Să̤-gău Liverpool Dâi-hŏk** (2024-2028)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
