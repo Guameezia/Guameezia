@@ -47,4 +47,4 @@
 ---
 **Thanks for visiting!** 
 
-[中文](README_zh.md) | [Bàng-uā-cê](README_fz.md)
+[正體中文](README_zh.md) | [Bàng-uā-cê](README_fz.md)
