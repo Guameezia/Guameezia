@@ -35,4 +35,4 @@
 
 **Huăng-ngìng nṳ̄ guŏng-lìng!**
 
-[![Bàng-uâ-cê Wikipedia](https://img.shields.io/badge/Wikipedia-Bàng--uâ--cê-000000?style=for-the-badge&logo=wikipedia&logoColor=white)]([https://cdo.wikipedia.org/wiki/Tàu_Hiĕk])
+[![Bàng-uâ-cê Wikipedia](https://img.shields.io/badge/Wikipedia-Bàng--uâ--cê-000000?style=for-the-badge&logo=wikipedia&logoColor=white)](https://cdo.wikipedia.org/wiki/Tàu_Hiĕk)
