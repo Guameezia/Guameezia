@@ -10,18 +10,22 @@
 
 </div> 
 
+To be honest, it is unique, but also difficult to pronounce.
+
 --- -->
 
 # 👋 Ciao! This is Guameezia
 
-> *You can find me with this name on almost all social media. To be honest, it is unique, but also difficult to pronounce.*
+> *You can find me with this name on almost all social media.*
 
-🎾 Amateur tennis player | 🗺️ Cartographer | ✍️ Calligraphy fanatic | 💬 Rantmonger
+🎾 Amateur tennis player | 🗺️ Cartographer | ✍️ Calligraphy fanatic | 💬 Rantmonger 
 
--  **Legal Name:** Haohan Lin (CN passport name) 
--  **Also known as:** Julian (my old-fashioned English name from childhood), Lìng Hō̤-hâng (Bàng-uā-cê)
--  **Currently studying:** BSc Information and Computing Science @ **XJTLU** (2024-2028)
+-  **Legal Name:** Haohan Lin 
+-  **AKA** Julian (my old-fashioned English name from childhood), Lìng Hō̤-hâng (Bàng-uā-cê)
+-  **Currently** BSc CS @ **XJTLU** 28'
+-  Anti-academic & Parochialism
 
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -44,6 +48,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+--- -->
 
 ---
 **Thanks for visiting!** 
