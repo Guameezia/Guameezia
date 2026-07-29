@@ -3,7 +3,7 @@
 > *Nṳ̄ â̤-sāi lā̤ Mòng-lô̤ iōng chiā miàng chō̤h-tiê nguāi.*
 <!-- Lò̤-sĭk gōng, chiā miâng iā ték-piàk, dān-sī buō-sāi dók. --- -->
 
-🎾 Ngiĕk-ù tennis suáng-chiū | 🗺️ Ài Dê-dù gì nè̤ng | ✍️ Niáh-bék siá-cê gì nè̤ng | 💬 Ài huák lô̤-sô̤ gì nè̤ng
+🎾 Ngiĕk-ù tennis suáng-chiū | 🗺️ Ài Dê-dù gì nè̤ng | ✍️ Niáh-bék siá-cê gì nè̤ng | 💬 Ài gŏng-pá gì nè̤ng
 
 - **Duâi-miàng** Haohan Lin
 - **Hō** Julian (nguāi siáe-giāng sìng-hâu gì lāu-sĭk Ĭng-ùng-miàng), Lìng Hō̤-hâng (Bàng-uā-cê)
