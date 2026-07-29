@@ -1,12 +1,14 @@
 # 👋 哈囉！我是 Guameezia
-> *你可以在幾乎所有社交媒體上用這個名字找到我。老實說，這名字很獨特，但也很難唸。*
+> *幾乎可以在所有網路上用這個名字找到我。*
 
 🎾 業餘網球選手 | 🗺️ 製圖師 | ✍️ 善書法 | 💬 暴論者
 
-- **法定姓名：** Haohan Lin（護照姓名）
-- **別名：** Julian（我兒時用的老派英文名）、Lìng Hō̤-hâng（平話字）
-- **目前就讀：** 信息與計算科學理學士 @ **西交利物浦大學**（2024-2028）
+- **法定姓名** Haohan Lin
+- **別名** Julian（我兒時用的老派英文名）Lìng Hō̤-hâng（平話字）
+- **目前** 資訊工程學系 @ **XJTLU** 28'
+- 厭學派 & 地方主義
 
+<!-- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -29,6 +31,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+--- -->
 
 ---
 
