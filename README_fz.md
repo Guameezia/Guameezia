@@ -1,13 +1,16 @@
 # 👋 Nṳ̄ hō̤! Nguāi sê Guameezia
 
-> *Nṳ̄ â̤-sāi lā̤ social media iōng chiā miàng chō̤h-tiê nguāi. Lò̤-sĭk gōng, chiā miâng iā ték-piàk, dān-sī buō-sāi dók.*
+> *Nṳ̄ â̤-sāi lā̤ Mòng-lô̤ iōng chiā miàng chō̤h-tiê nguāi.*
+<!-- Lò̤-sĭk gōng, chiā miâng iā ték-piàk, dān-sī buō-sāi dók. --- -->
 
-🎾 Ngiĕk-ù tennis suáng-chiū | 🗺️ Ài map gì nè̤ng | ✍️ Ài siá-cê gì nè̤ng | 💬 Ài huák lô̤-sô̤ gì nè̤ng
+🎾 Ngiĕk-ù tennis suáng-chiū | 🗺️ Ài Dê-dù gì nè̤ng | ✍️ Niáh-bék siá-cê gì nè̤ng | 💬 Ài huák lô̤-sô̤ gì nè̤ng
 
-- **Huák-dêng siáng-miàng:** Haohan Lin (CN hō̤-ziō̤ siáng-miàng)
-- **Biék-miàng:** Julian (nguāi siáe-giāng sìng-hâu gì lāu-sĭk Ĭng-ùng-miàng), Lìng Hō̤-hâng (Bàng-uā-cê)
-- **Gĭng-dáng dṳ̀-cṳ̀:** Info gĭk Comp-Science Lī-hŏk nè̤ng @ **Să̤-gău Liverpool Dâi-hŏk** (2024-2028)
+- **Duâi-miàng** Haohan Lin
+- **Hō** Julian (nguāi siáe-giāng sìng-hâu gì lāu-sĭk Ĭng-ùng-miàng), Lìng Hō̤-hâng (Bàng-uā-cê)
+- **Gĭng-dáng** BSc CS @ **Să̤-gău Liverpool Dâi-hŏk** 28'
+- M̤ táuk-cṳ̀ & Cuò-biāng
 
+<!-- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -30,9 +33,10 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+--- -->
 
 ---
 
-**Huăng-ngìng nṳ̄ guŏng-lìng!**
+**Nṳ̄ lái sī iā-hō!**
 
 [![Bàng-uâ-cê Wikipedia](https://img.shields.io/badge/Wikipedia-Bàng--uâ--cê-000000?style=for-the-badge&logo=wikipedia&logoColor=white)](https://cdo.wikipedia.org/wiki/Tàu_Hiĕk)
